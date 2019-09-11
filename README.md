@@ -1,4 +1,4 @@
-# 404 checker
+# 404 and 200 checker
 You can find 404 url list.
 
 # How to use
@@ -12,7 +12,7 @@ https://google.com/notfound
 ```
 
 2. exec script  
-show 404 url in your console.
+show 404 and 200 url in your console.
 ```
 $ sh checker.sh
 404 https://google.com/notfound
