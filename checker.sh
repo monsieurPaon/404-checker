@@ -1,7 +1,5 @@
 #!/bin/sh
 
-#!/bin/sh
-
 while read line
 do
   url=(`echo ${line}`)
